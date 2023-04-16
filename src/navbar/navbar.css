@@ -1,0 +1,36 @@
+.header{
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    height: fit-content;
+    padding: 1em;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo{
+    height: 100%;
+    background-color:white;
+  }
+  
+  .options{
+    height: 100%;
+    background-color: white;
+    
+  }
+  
+  .items{
+    width: 100%;
+    height: fit-content;
+    padding: 1em;
+  
+  }
+  
+  a{
+    padding: 1em;
+    text-decoration: none;
+    color: black;
+    padding-right: 4em;
+  }
+  
